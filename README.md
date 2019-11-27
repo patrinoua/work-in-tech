@@ -1,3 +1,5 @@
+## Pump up your Online Presence
+
 1. Take a look on canva (https://www.canva.com/templates/resumes/) where they have lots of free modern CV templates and see if you find something you like there. 
   On your CV do not forget to include useful links to github, linkedin etc.
 2. Fill your LinkedIn with relevant information about positions/project you had on the past
@@ -5,3 +7,9 @@
 4. I'd be happy to take a look on your online presence and CV and suggest improvements. Get in touch!
 
 Good luck! :)
+
+## Interview preparation
+
+### React 
+
+https://dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h
