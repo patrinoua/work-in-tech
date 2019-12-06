@@ -17,3 +17,21 @@ Good luck! :)
 ### React 
 
 https://dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h
+
+### Tech Interview Handbook
+https://github.com/yangshun/tech-interview-handbook
+
+### Example of what companies look for in Interviewees
+https://medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba
+
+### 3 Highest Paid Jobs in Tech [https://hired.com/blog/candidates/3-highest-paid-jobs-technology/?utm_source=customerio&utm_medium=email&utm_campaign=(b2c)(en_3_master)(c_reactivation_rejected-candidate-nurture)](link)
+
+## Start Applying
+
+### Where to find position openings
+Indeed.de
+LinkedIn
+https://berlinstartupjobs.com/companies/rivalfox/
+
+### Coding Challenges
+Codewars.com
