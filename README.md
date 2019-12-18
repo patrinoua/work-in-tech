@@ -37,3 +37,7 @@ https://berlinstartupjobs.com/companies/rivalfox/
 
 ### Coding Challenges
 Codewars.com
+
+### Learning Resources
+
+https://easyontheweb.com/reactjs-resources-for-beginners-from-scratch/
