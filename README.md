@@ -31,8 +31,11 @@ https://medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a79
 
 #### Where to find position openings
 Indeed.de
+
 LinkedIn
+
 talent.io - you can use my referal on this [link](https://www.talent.io/ref/FqzSvdMY)
+
 https://berlinstartupjobs.com/companies/rivalfox/
 
 ### Coding Challenges
@@ -41,4 +44,5 @@ Codewars.com
 ### Learning Resources
 
 https://easyontheweb.com/reactjs-resources-for-beginners-from-scratch/
+
 https://github.com/getify/You-Dont-Know-JS
