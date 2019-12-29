@@ -41,7 +41,7 @@ LinkedIn
 
 talent.io - you can use my referal on this [link](https://www.talent.io/ref/FqzSvdMY)
 
-https://berlinstartupjobs.com/companies/rivalfox/
+https://berlinstartupjobs.com/
 
 # 
 
