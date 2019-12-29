@@ -4,7 +4,7 @@
 Take a look on canva (https://www.canva.com/templates/resumes/) where they have lots of free modern CV templates and see if you find something you like there. 
   On your CV do not forget to include useful links to github, linkedin etc.
 #### LinkedIn
-Fill your LinkedIn with relevant information about positions/project you had in the past
+Fill your LinkedIn with relevant information about positions/projects you had in the past
 
 #### Portfolio
 If your job is online/creative it's probably a good idea to have a portfolio. You can try wix (http://wix.com/) for that or get in contact with me.
