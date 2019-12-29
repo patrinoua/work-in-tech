@@ -52,7 +52,7 @@ Codewars.com
 
 https://easyontheweb.com/reactjs-resources-for-beginners-from-scratch/
 
-https://github.com/getify/You-Dont-Know-JS
+♥ https://github.com/getify/You-Dont-Know-JS
 
 https://www.codecademy.com/catalog/subject/all
 
