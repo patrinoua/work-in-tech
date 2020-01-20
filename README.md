@@ -1,4 +1,26 @@
 # Tips for Jobs!
+
+### 0. Know What you are looking for
+Write a paragraph where you describe your Dream Job. Then also make a list of points that are important to you. On every Interview write down the facts of these points you learned from the Interview and in the end come up with a general rating.
+Example bullets could be
+
+* PRODUCT
+* SALARY
+* LOCATION (& distance)
+* TECH STACK 
+* TEAM SIZE
+* LEARNING OPPORTUNITIES
+
+**Bonus Points for 
+
+* FLEXIBILITY: (80-90% & home office possible)
+* FUN FACTOR/COOL POINTS
+* OFFICE 
+*WELCOMING
+
+**GENERAL FEELING  
+
+
 ### 1. Pump up your Online Presence
 #### Kick-ass CV
 Take a look on canva (https://www.canva.com/templates/resumes/) where they have lots of free modern CV templates and see if you find something you like there. 
