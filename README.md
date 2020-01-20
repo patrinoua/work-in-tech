@@ -5,17 +5,17 @@ Write a paragraph where you describe your Dream Job. Then also make a list of po
 Example bullets could be
 
 * PRODUCT
-* SALARY
-* LOCATION (& distance)
 * TECH STACK 
-* TEAM SIZE
 * LEARNING OPPORTUNITIES
+* LOCATION (& distance)
+* SALARY
+* TEAM SIZE
 
 **Bonus Points for **
 
-* FLEXIBILITY: (80-90% & home office possible)
-* FUN FACTOR/COOL POINTS
-* OFFICE 
+* FLEXIBILITY: (80-90% / home office)
+* FUN FACTOR
+* OFFICE
 * WELCOMING
 
 * **GENERAL FEELING ** 
