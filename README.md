@@ -18,7 +18,7 @@ Example bullets could be
 * OFFICE
 * WELCOMING
 
-* **GENERAL FEELING** 
+**GENERAL FEELING** 
 
 
 ### 1. Pump up your Online Presence
