@@ -25,10 +25,14 @@ Example bullets could be
 *example*
 
 10/9 Applied. Booked interview for Monday 16/09 
+
 16/9 First Interview
+
 30/9 second
+
 4/10 invite for onsite
-16/10 onsite interview and declined 
+
+16/10 onsite interview 
 
 * PRODUCT: ***
 * SALARY: XX.000 *****
