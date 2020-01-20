@@ -11,14 +11,14 @@ Example bullets could be
 * SALARY
 * TEAM SIZE
 
-** Bonus Points for **
+**Bonus Points for**
 
 * FLEXIBILITY: (80-90% / home office)
 * FUN FACTOR
 * OFFICE
 * WELCOMING
 
-* ** GENERAL FEELING ** 
+* **GENERAL FEELING** 
 
 
 ### 1. Pump up your Online Presence
