@@ -21,7 +21,7 @@ Example bullets could be
 * WELCOMING
 
 **GENERAL FEELING** 
- ###
+ #
 *example*
 
 10/9 Applied. Booked interview for Monday 16/09 
