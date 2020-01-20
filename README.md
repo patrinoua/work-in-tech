@@ -1,7 +1,7 @@
 # Tips for Jobs!
 
 ### 0. Know What you are looking for
-Write a paragraph where you describe your Dream Job. Then also make a list of points that are important to you. On every Interview write down the facts of these points you learned from the Interview and in the end come up with a general rating.
+Write a paragraph where you describe your Dream Job. Then also make a list of points that are important to you. On every Interview write down the facts of these points you learned from the Interview, rate them (I use a 1-5 stars system, where 1 is very bad and 5 is excellent) and in the end come up with a general rating.
 
 
 Example bullets could be
