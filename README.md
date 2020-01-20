@@ -30,19 +30,19 @@ Example bullets could be
 4/10 invite for onsite
 16/10 onsite interview and declined 
 
-PRODUCT: ***
-SALARY: XX.000 *****
-Starting date: XX/YY/ZZZZ *****
-LOCATION (& distance): ****
-TECH STACK: *****
-TEAM SIZE: *****
-LEARNING OPPORTUNITIES: ***** (2k/year on personal development)
+* PRODUCT: ***
+* SALARY: XX.000 *****
+* Starting date: XX/YY/ZZZZ *****
+* LOCATION (& distance): ****
+* TECH STACK: *****
+* TEAM SIZE: *****
+* LEARNING OPPORTUNITIES: ***** (2k/year on personal development)
 
-FLEXIBILITY: *** ? 80-90% & home office possible?
-FUN FACTOR/COOL POINTS: *****
-OFFICE: ?
-WELCOMING: ?
-GENERAL FEELING:  *****
+* FLEXIBILITY: *** ? 80-90% & home office possible?
+* FUN FACTOR/COOL POINTS: *****
+* OFFICE: ?
+* WELCOMING: ?
+* GENERAL FEELING:  *****
 
 Interviewing and solving coding tests can be a lengthy procedure, so only apply for positions that you would actually like to have and you will not end up rejecting later.
 
