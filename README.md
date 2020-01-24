@@ -58,6 +58,9 @@ https://github.com/yangshun/tech-interview-handbook
 #### Example of what companies look for in Interviewees
 https://medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba
 
+#### More tips
+https://www.fullstackinterviewing.com/
+
 #### Highest Paid Jobs in Tech - [link](https://hired.com/blog/candidates/3-highest-paid-jobs-technology)
 
 ### 3. Start Applying
