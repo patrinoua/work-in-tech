@@ -35,7 +35,7 @@ If you are an aspiring coder show people your projects and how you write code on
 #### Portfolio
 If your job is online/creative it's probably a good idea to have a portfolio.
 This is your chance to show the world your favorite projects! Keep it narrow - remember nowdays in an overflood of information attention spans tend to be limitted. Choose your 3-5 most impressive projects and write maximum 100 words to describe them.  
-You can try wix (http://wix.com/) for that or get in contact with me if you want something more custom.
+You can try wix (http://wix.com/) for that or get in touch with me (contact is provided at the end) if you want something more custom.
 
 #### All set, ready, go! Time for feedback!
 Don't forget to link everything so people can find it: 
