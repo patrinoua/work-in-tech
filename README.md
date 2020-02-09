@@ -98,3 +98,8 @@ https://docs.microsoft.com/en-us/learn/
 
 ### Other Links
 How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
+
+
+## Get in touch
+Need some feedback on your CV? Not getting enough views on linkedIn?
+For personalised advice feel free to get in touch with me on patrinoua[at]gmail.com  
