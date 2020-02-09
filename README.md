@@ -101,9 +101,9 @@ How much do Software developers earn in Germany? [link](https://blog.honeypot.io
 
 ## Examples of what I do
 
-angelikipatrinou.com [portfolio, linkedin, cv]
+http://angelikipatrinou.com (portfolio, linkedin, cv)
 
-klazaridis.com [portfolio, linkedin review, cv review]
+http://klazaridis.com (portfolio, linkedin review, cv review)
 
 ## Get in touch
 Need some feedback on your CV? Not getting enough views on linkedIn?
