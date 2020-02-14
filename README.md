@@ -30,6 +30,7 @@ Take a look on canva (https://www.canva.com/templates/resumes/) where they have 
   On your CV do not forget to include useful links to github, linkedin etc.
 #### LinkedIn
 Fill your LinkedIn with relevant information about positions/projects you had in the past.
+Optimise your linkedin [link](https://careers.workopolis.com/advice/optimize-linkedin-profile-job-hunt-will-thank/)
 #### Github
 If you are an aspiring coder show people your projects and how you write code on Github or a similar platform.
 #### Portfolio
