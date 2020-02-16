@@ -83,6 +83,8 @@ Codewars.com
 
 ### Learning Resources
 
+https://github.com/ReactTraining
+
 https://easyontheweb.com/reactjs-resources-for-beginners-from-scratch/
 
 ♥ https://github.com/getify/You-Dont-Know-JS
