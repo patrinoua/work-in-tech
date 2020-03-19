@@ -105,6 +105,9 @@ https://leetcode.com/ Prepare for Interview
 
 Learn React JS — Build a Portfolio [link](https://codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
 
+### JavaScript Interview Questions
+https://dev.to/maxpou/typical-javascript-interview-exercises-explained
+
 ### Other Links
 How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
 
