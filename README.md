@@ -81,6 +81,8 @@ https://berlinstartupjobs.com/
 ### Coding Challenges
 Codewars.com
 
+♥ https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback
+
 ### Learning Resources
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
