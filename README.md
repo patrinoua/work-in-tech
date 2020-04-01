@@ -1,3 +1,6 @@
+## Companies hiring during corona 
+[Link 1](https://docs.google.com/spreadsheets/d/1lwZ4ot10j-wvQZgA_hJ0AZJS_X3V9HjVk2QLsAU4WMc/htmlview#)
+
 # Tips for Jobs!
 
 ### 0. Know What you are looking for
