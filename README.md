@@ -1,5 +1,7 @@
 ## Companies hiring during corona 
 [Link 1](https://docs.google.com/spreadsheets/d/1lwZ4ot10j-wvQZgA_hJ0AZJS_X3V9HjVk2QLsAU4WMc/htmlview#)
+
+
 [Link 2](https://candor.co/hiring-freezes/)
 
 # Tips for Jobs!
