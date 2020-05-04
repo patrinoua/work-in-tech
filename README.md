@@ -68,6 +68,8 @@ https://medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a79
 #### More tips
 https://www.fullstackinterviewing.com/
 
+[the-ultimate-guide-to-finding-a-new-job-fast-efficiently] (https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
+
 #### Highest Paid Jobs in Tech 
 https://hired.com/blog/candidates/3-highest-paid-jobs-technology
 
@@ -123,3 +125,5 @@ How much do Software developers earn in Germany? [link](https://blog.honeypot.io
 Need some feedback on your CV? Not getting enough views on linkedIn?
 
 For personalised advice feel free to get in touch with me on patrinoua[at]gmail.com  
+
+
