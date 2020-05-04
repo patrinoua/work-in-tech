@@ -68,7 +68,7 @@ https://medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a79
 #### More tips
 https://www.fullstackinterviewing.com/
 
-[the-ultimate-guide-to-finding-a-new-job-fast-efficiently] (https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
+[the-ultimate-guide-to-finding-a-new-job-fast-efficiently](https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
 
 #### Highest Paid Jobs in Tech 
 https://hired.com/blog/candidates/3-highest-paid-jobs-technology
