@@ -1,9 +1,3 @@
-## Companies hiring during corona 
-[Link 1](https://docs.google.com/spreadsheets/d/1lwZ4ot10j-wvQZgA_hJ0AZJS_X3V9HjVk2QLsAU4WMc/htmlview#)
-
-
-[Link 2](https://candor.co/hiring-freezes/)
-
 # Tips for Jobs!
 
 ### 0. Know What you are looking for
@@ -28,7 +22,7 @@ Example bullets could be
 
 **GENERAL FEELING** 
 
-Interviewing and solving coding tests can be a lengthy procedure, so only apply for positions that you would actually like to have and you will not end up rejecting later.
+Interviewing and coding challenges can be a lengthy procedure, so only apply for positions that you would actually like to have and you will not end up rejecting later.
 
 ### 1. Pump up your Online Presence
 #### Kick-ass CV
@@ -42,12 +36,13 @@ If you are an aspiring coder show people your projects and how you write code on
 #### Portfolio
 If your job is online/creative it's probably a good idea to have a portfolio.
 This is your chance to show the world your favorite projects! Keep it narrow - remember nowdays in an overflood of information attention spans tend to be limitted. Choose your 3-5 most impressive projects and write maximum 100 words to describe them.  
-You can try wix (http://wix.com/) for that or get in touch with me (contact is provided at the end) if you want something more custom.
+You can build a custom one, try wix (http://wix.com/), or get in touch with me.
 
 #### All set, ready, go! Time for feedback!
 Don't forget to link everything so people can find it: 
 
-Have a link to your Portfolio on linkedIn, a link to your Github on your Portfolio (also a link to linkedIn and maybe CV), etc. Make sure the content you want to show is always a link away.
+Have a link to your Portfolio on linkedIn, a link to your Github on your Portfolio (also a link to linkedIn and maybe CV), etc. 
+Make sure the content you want to show is always a link away.
 
 I'd be happy to take a look on your online presence and CV and suggest improvements. Get in touch!
 
@@ -120,6 +115,8 @@ https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 
 ### Other Links
 How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
+
+Atomic Design [link](https://www.canva.com/templates/resumes/)
 
 ## Get in touch
 Need some feedback on your CV? Not getting enough views on linkedIn?
