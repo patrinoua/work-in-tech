@@ -110,6 +110,12 @@ https://leetcode.com/ Prepare for Interview
 
 Learn React JS — Build a Portfolio [link](https://codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
 
+---
+
+https://www.youtube.com/watch?v=Ip_jOSpThSg React Roadmap
+
+https://www.youtube.com/watch?v=BwuLxPH8IDs Learn TypeScript
+
 ### JavaScript Interview Questions
 https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 
@@ -119,8 +125,7 @@ How much do Software developers earn in Germany? [link](https://blog.honeypot.io
 Atomic Design [link](https://www.canva.com/templates/resumes/)
 
 ## Get in touch
-Need some feedback on your CV? Not getting enough views on linkedIn?
 
-For personalised advice feel free to get in touch with me on patrinoua[at]gmail.com  
+For personal advice feel free to get in touch with me on patrinoua[at]gmail.com  
 
 
