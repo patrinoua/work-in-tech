@@ -119,7 +119,9 @@ https://www.freecodecamp.org/
 
 https://www.khanacademy.org/
 
-frontendmasters.com
+https://frontendmasters.com // paid platform
+
+https://pluralsight.com // paid platform
 
 https://leetcode.com/ Prepare for Interview
 
