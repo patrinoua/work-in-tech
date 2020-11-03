@@ -145,11 +145,9 @@ Atomic Design [link](https://www.canva.com/templates/resumes/)
 For personal advice feel free to get in touch with me on patrinoua[at]gmail.com  
 
 #### Courses taken/completed: 
+ 
+React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266)
 
-Nov 2020 
-React & Jest (up to chapter 6) https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266
-
-Oct 2020 
-UX by udacity https://classroom.udacity.com/courses/ud849
+UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
 
