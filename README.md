@@ -109,17 +109,15 @@ https://easyontheweb.com/reactjs-resources-for-beginners-from-scratch/
 
 #### Learning Platforms
 
-https://learndigital.withgoogle.com/digitalgarage/courses
+by Google https://learndigital.withgoogle.com/digitalgarage/courses
+
+by Microsoft https://docs.microsoft.com/en-us/learn/
 
 https://www.codecademy.com/catalog/subject/all
 
 https://www.freecodecamp.org/
 
-https://learndigital.withgoogle.com/digitalgarage/courses
-
 https://www.khanacademy.org/
-
-https://docs.microsoft.com/en-us/learn/
 
 https://leetcode.com/ Prepare for Interview
 
