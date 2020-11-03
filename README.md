@@ -128,7 +128,6 @@ https://leetcode.com/ Prepare for Interview
 Learn React JS — Build a Portfolio [link](https://codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
 
 ---
-
 https://www.youtube.com/watch?v=Ip_jOSpThSg React Roadmap
 
 https://www.youtube.com/watch?v=BwuLxPH8IDs Learn TypeScript
@@ -144,5 +143,13 @@ Atomic Design [link](https://www.canva.com/templates/resumes/)
 ## Get in touch
 
 For personal advice feel free to get in touch with me on patrinoua[at]gmail.com  
+
+#### Courses taken/completed: 
+
+Nov 2020 
+React & Jest (up to chapter 6) https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266
+
+Oct 2020 
+UX by udacity https://classroom.udacity.com/courses/ud849
 
 
