@@ -143,9 +143,8 @@ How much do Software developers earn in Germany? [link](https://blog.honeypot.io
 
 Atomic Design [link](https://www.canva.com/templates/resumes/)
 
-## Get in touch
+https://javascript.christmas/2020
 
-For personal advice feel free to get in touch with me on patrinoua[at]gmail.com  
 
 #### Courses taken/completed: 
  
