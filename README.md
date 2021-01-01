@@ -150,6 +150,7 @@ https://javascript.christmas/2020
 React-TypeScript-Cheatsheet [link](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example)
 
 and example project: [to-do app](https://github.com/laststance/create-react-app-typescript-todo-example-2020)
+
 JavaScript Toolink [link](https://advancedweb.dev/javascript-tooling-overview)
 
 Cool advanced articles https://advancedweb.dev/
