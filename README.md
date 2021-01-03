@@ -106,6 +106,8 @@ https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
 
 15 most important things to know in JavaScript [link](https://codewithanto.medium.com/15-most-important-concepts-that-every-javascript-programmer-must-know-e0f0f04db3e0)
 
+JavaScript API cheatsheet [link](https://overapi.com/javascript)
+
 #### React
 
 https://github.com/ReactTraining
