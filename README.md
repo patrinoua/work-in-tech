@@ -104,6 +104,8 @@ http://ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 
 https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
 
+15 most important things to know in JavaScript [link](https://codewithanto.medium.com/15-most-important-concepts-that-every-javascript-programmer-must-know-e0f0f04db3e0)
+
 #### React
 
 https://github.com/ReactTraining
@@ -139,6 +141,7 @@ https://www.youtube.com/watch?v=BwuLxPH8IDs Learn TypeScript
 https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 
 Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview-part-1-overview)
+
 
 ### Other Links
 How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
