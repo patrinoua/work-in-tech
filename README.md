@@ -116,6 +116,8 @@ https://easyontheweb.com/reactjs-resources-for-beginners-from-scratch/
 
 #### Learning Platforms
 
+https://roadmap.sh/ Step by step guides and paths to learn different tools or technologies
+
 by Google https://learndigital.withgoogle.com/digitalgarage/courses
 
 by Microsoft https://docs.microsoft.com/en-us/learn/
@@ -133,6 +135,7 @@ https://pluralsight.com // paid platform
 https://leetcode.com/ Prepare for Interview
 
 Learn React JS — Build a Portfolio [link](https://codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
+
 
 ---
 https://www.youtube.com/watch?v=Ip_jOSpThSg React Roadmap
