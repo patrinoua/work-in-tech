@@ -22,7 +22,7 @@ Example bullets could be
 
 **GENERAL FEELING** 
 
-Interviewing and coding challenges can be a lengthy procedure, so only apply for positions that you would actually like to have and you will not end up rejecting later.
+Interviewing and coding challenges can be a lengthy procedure, so only apply for positions that you would actually like to have and you will not end up rejecting later. Cultural fit is another important thing to consider. 
 
 ### 1. Pump up your Online Presence
 #### Kick-ass CV
