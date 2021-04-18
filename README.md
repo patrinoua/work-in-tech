@@ -10,6 +10,7 @@ Example bullets could be
 * TECH STACK 
 * LEARNING OPPORTUNITIES
 * CAREER GROWTH OPPORTUNITIES
+* CULTURE
 * LOCATION (& distance from where you live)
 * SALARY
 * TEAM SIZE
