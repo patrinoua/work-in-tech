@@ -165,7 +165,7 @@ JavaScript Toolink [link](https://advancedweb.dev/javascript-tooling-overview)
 
 Cool advanced articles https://advancedweb.dev/
 
-Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
+♥ Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
 
 #### Courses taken/completed: 
  
