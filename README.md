@@ -165,6 +165,8 @@ JavaScript Toolink [link](https://advancedweb.dev/javascript-tooling-overview)
 
 Cool advanced articles https://advancedweb.dev/
 
+Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
+
 #### Courses taken/completed: 
  
 React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266)
