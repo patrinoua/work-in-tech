@@ -150,6 +150,9 @@ https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview-part-1-overview)
 
 
+### Design
+♥ Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
+
 ### Other Links
 How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
 
@@ -165,7 +168,6 @@ JavaScript Toolink [link](https://advancedweb.dev/javascript-tooling-overview)
 
 Cool advanced articles https://advancedweb.dev/
 
-♥ Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
 
 #### Courses taken/completed: 
  
