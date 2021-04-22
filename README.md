@@ -153,6 +153,9 @@ Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview
 ### Design
 ♥ Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
 
+### Testing
+Unit / Integration / End to end testing [link](https://cultivate.software/unit-vs-integration-vs-acceptance-test/)
+
 ### Other Links
 How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
 
