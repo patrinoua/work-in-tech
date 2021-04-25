@@ -171,6 +171,7 @@ JavaScript Toolink [link](https://advancedweb.dev/javascript-tooling-overview)
 
 Cool advanced articles https://advancedweb.dev/
 
+Git Book [link](https://git-scm.com/book/en/v2)
 
 #### Courses taken/completed: 
  
