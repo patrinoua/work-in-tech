@@ -173,6 +173,8 @@ Cool advanced articles https://advancedweb.dev/
 
 Git Book [link](https://git-scm.com/book/en/v2)
 
+Tips for clean code [link](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
+
 #### Courses taken/completed: 
  
 React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266)
