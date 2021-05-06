@@ -1,5 +1,9 @@
 # Tips for Jobs!
 
+This is a collection of resources I've found over time including learning material, best practices and tips if you're currently looking for a new position. Feel free to reach out to me if you know an interesting link that I could add here! 
+
+Cheers, Angela! :) 
+
 ### 0. Know What you are looking for
 Write a paragraph where you describe your Dream Job. Then also make a list of points that are important to you. On every Interview write down the facts of these points you learned from the Interview, rate them (I use a 1-5 stars system, where 1 is very bad and 5 is excellent) and in the end come up with a general rating.
 
