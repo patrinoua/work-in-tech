@@ -173,6 +173,8 @@ Cool advanced articles https://advancedweb.dev/
 
 Git Book [link](https://git-scm.com/book/en/v2)
 
+♥ Airbnb guidelines [link](https://github.com/airbnb/javascript/tree/master/)
+
 Tips for clean code [link](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
 
 #### Courses taken/completed: 
