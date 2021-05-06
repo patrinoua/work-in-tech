@@ -156,10 +156,16 @@ Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview
 ### Testing
 Unit / Integration / End to end testing [link](https://cultivate.software/unit-vs-integration-vs-acceptance-test/)
 
-### Other Links
-How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
+### Quality
 
 Atomic Design [link](https://www.canva.com/templates/resumes/)
+
+♥ Airbnb guidelines [link](https://github.com/airbnb/javascript/tree/master/)
+
+Tips for clean code [link](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
+
+### Other Links
+How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
 
 https://javascript.christmas/2020
 
@@ -172,10 +178,6 @@ JavaScript Toolink [link](https://advancedweb.dev/javascript-tooling-overview)
 Cool advanced articles https://advancedweb.dev/
 
 Git Book [link](https://git-scm.com/book/en/v2)
-
-♥ Airbnb guidelines [link](https://github.com/airbnb/javascript/tree/master/)
-
-Tips for clean code [link](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
 
 #### Courses taken/completed: 
  
