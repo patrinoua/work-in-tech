@@ -162,7 +162,7 @@ Unit / Integration / End to end testing [link](https://cultivate.software/unit-v
 
 ### Quality
 
-Atomic Design [link](https://www.canva.com/templates/resumes/)
+Atomic Design [link](https://bradfrost.com/blog/post/atomic-web-design/)
 
 ♥ Airbnb guidelines [link](https://github.com/airbnb/javascript/tree/master/)
 
