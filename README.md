@@ -153,9 +153,13 @@ https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 
 Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview-part-1-overview)
 
+### CSS
+https://markodenic.com/css-tips/
 
 ### Design
 ♥ Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
+
+COLOR & TYPOGRAPHY https://www.colorsandfonts.com/
 
 ### Testing
 Unit / Integration / End to end testing [link](https://cultivate.software/unit-vs-integration-vs-acceptance-test/)
