@@ -142,6 +142,7 @@ https://leetcode.com/ Prepare for Interview
 
 Learn React JS — Build a Portfolio [link](https://codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
 
+Saylor.org - learn different skills - free 
 
 ---
 https://www.youtube.com/watch?v=Ip_jOSpThSg React Roadmap
