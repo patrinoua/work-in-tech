@@ -1,8 +1,8 @@
-# Tips for Jobs!
+# Tech Tips!
 
 This is a collection of resources I've found over time including learning material, best practices and tips if you're currently looking for a new position. Feel free to reach out to me if you know an interesting link that I could add here! 
 
-Cheers, Angela! :) 
+## When looking for a new position
 
 ### 0. Know What you are looking for
 Write a paragraph where you describe your Dream Job. Then also make a list of points that are important to you. On every Interview write down the facts of these points you learned from the Interview, rate them (I use a 1-5 stars system, where 1 is very bad and 5 is excellent) and in the end come up with a general rating.
@@ -95,7 +95,7 @@ Codewars.com
 
 ♥ https://www.hackerrank.com/interview/interview-preparation-kit
 
-### Learning Resources
+## Learning Resources
 
 #### JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -201,4 +201,10 @@ React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/cou
 
 UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
+## bootcamps
 
+♥ Spiced Academy - intense full stack and Data Science bootcamp
+
+Career Foundry - online full stack and UI/UX bootcamp 
+
+Startsteps.org - help you decide which is the right bootcamp for you
