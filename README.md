@@ -201,7 +201,7 @@ React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/cou
 
 UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
-## bootcamps
+## Bootcamps
 
 ♥ Spiced Academy - intense full stack and Data Science bootcamp
 
