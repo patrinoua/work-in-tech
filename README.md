@@ -65,6 +65,12 @@ https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 
 Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview-part-1-overview)
 
+### Coding Challenges
+Codewars.com
+
+♥ https://www.hackerrank.com/interview/interview-preparation-kit
+
+
 ### CSS
 https://markodenic.com/css-tips/
 
@@ -206,9 +212,4 @@ talent.io - you can use my referal on this [link](https://www.talent.io/ref/FqzS
 https://berlinstartupjobs.com/
 
 # 
-
-### Coding Challenges
-Codewars.com
-
-♥ https://www.hackerrank.com/interview/interview-preparation-kit
 
