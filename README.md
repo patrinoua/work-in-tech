@@ -1,6 +1,6 @@
 # Tech Tips!
 
-This is a collection of resources I've found over time including learning material, best practices and tips if you're currently looking for a new position. Feel free to reach out to me if you know an interesting link that I could add here! 
+This is a collection of resources I've found over time including learning material, best practices and tips if you're currently looking for a new position. Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
 
 
 ## Learning Resources
