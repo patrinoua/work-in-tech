@@ -168,7 +168,7 @@ This is your chance to show the world your favorite projects! Keep it narrow - r
 You can build a custom one, try wix (http://wix.com/), or get in touch with me.
 
 #### All set, ready, go! Time for feedback!
-Don't forget to link everything so people can find it: 
+Don't forget to add links to everything so people can easily have access to it! :) 
 
 Have a link to your Portfolio on linkedIn, a link to your Github on your Portfolio (also a link to linkedIn and maybe CV), etc. 
 Make sure the content you want to show is always a link away.
