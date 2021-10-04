@@ -119,7 +119,7 @@ UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
 ## Bootcamps
 
-♥ Spiced Academy - intense full stack and Data Science bootcamp
+♥ Spiced Academy - intense full stack and Data Science bootcamp (the one I attended!)
 
 Career Foundry - online full stack and UI/UX bootcamp 
 
