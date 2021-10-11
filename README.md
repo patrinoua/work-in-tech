@@ -31,6 +31,8 @@ Saylor.org - learn different skills - free
 
 https://careerkarma.com/blog/best-free-coding-bootcamp-options/ // free bootcamps
 
+https://github.com/sindresorhus/pure customise your terminal / pure prompt
+
 #### JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
