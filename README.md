@@ -216,4 +216,4 @@ https://berlinstartupjobs.com/
 # 
 
 ### Interesting reads
-"The secret of raising smart kids" (Or what it means to have a growth mindset, by Scientific American ([link](https://www.scientificamerican.com/article/the-secret-to-raising-smart-kids1/))
+"The secret of raising smart kids" (Or what it means to have a growth mindset - Scientific American [link](https://www.scientificamerican.com/article/the-secret-to-raising-smart-kids1/)
