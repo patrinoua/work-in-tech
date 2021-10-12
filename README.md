@@ -217,3 +217,6 @@ https://berlinstartupjobs.com/
 
 ### Interesting reads
 "The secret of raising smart kids" (Or what it means to have a growth mindset - Scientific American [link](https://www.scientificamerican.com/article/the-secret-to-raising-smart-kids1/)
+
+### Interesting videos
+Grit: The power of passion and perseverance [link](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en)
