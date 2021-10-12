@@ -9,7 +9,7 @@ This is a collection of resources I've found over time including learning materi
 
 https://roadmap.sh/ Step by step guides and paths to learn different tools or technologies
 
-Another roadmap [roadmap](https://frontendmasters.com/guides/learning-roadmap/)
+Another roadmap [roadmap](https://frontendmasters.com/guides/learning-roadmap/) with lots of links connected for learning more things!
 
 by Google https://learndigital.withgoogle.com/digitalgarage/courses
 
