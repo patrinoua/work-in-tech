@@ -125,12 +125,13 @@ React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/cou
 UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
 ## Bootcamps
+Working in tech is fun! And with a bootcamp you can do it too.
 
-♥ Spiced Academy - intense full stack and Data Science bootcamp (the one I attended!)
+[Startsteps.org](Startsteps.org) - help you decide which is the right bootcamp for you
 
-Career Foundry - online full stack and UI/UX bootcamp 
+♥ [Spiced Academy](Spiced.Academy) - intense full stack and Data Science bootcamp (the one I attended!)
 
-Startsteps.org - help you decide which is the right bootcamp for you
+[Career Foundry](https://careerfoundry.com) - online full stack and UI/UX bootcamp 
 
 ## When looking for a new position
 
