@@ -125,7 +125,7 @@ React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/cou
 UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
 ## Bootcamps
-Working in tech is fun! And with a bootcamp you can do it too.
+Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
 
 [Startsteps.org](Startsteps.org) - help you decide which is the right bootcamp for you
 
