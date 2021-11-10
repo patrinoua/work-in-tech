@@ -65,7 +65,9 @@ https://www.youtube.com/watch?v=Ip_jOSpThSg React Roadmap
 https://www.youtube.com/watch?v=BwuLxPH8IDs Learn TypeScript
 
 
-#### Suggestions by Artsy [link](https://github.com/artsy/README/blob/main/resources/tech-learning.md)
+#### by Artsy [link](https://github.com/artsy/README/blob/main/resources/tech-learning.md)
+
+Relay Workshop [link](https://github.com/artsy/relay-workshop/)
 
 ### JavaScript Interview Questions
 https://dev.to/maxpou/typical-javascript-interview-exercises-explained
