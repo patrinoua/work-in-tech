@@ -219,9 +219,9 @@ https://hired.com/blog/candidates/3-highest-paid-jobs-technology
 ### 3. Start Applying
 
 #### Where to find position openings
-Indeed.de
+[Indeed.de](https://de.indeed.com/)
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/jobs/)
 
 talent.io - you can use my referal on this [link](https://www.talent.io/ref/FqzSvdMY)
 
