@@ -37,9 +37,9 @@ https://github.com/sindresorhus/pure customise your terminal / pure prompt
 
 #### Spiced prep material
 
-[data science](https://spiced.space/datascience/prep)
+[Data Science](https://spiced.space/datascience/prep)
 
-[full stack](https://spiced.space/fullstack/prep)
+[Full Stack](https://spiced.space/fullstack/prep)
 
 #### JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
