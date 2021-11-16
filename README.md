@@ -36,7 +36,9 @@ https://careerkarma.com/blog/best-free-coding-bootcamp-options/ // free bootcamp
 https://github.com/sindresorhus/pure customise your terminal / pure prompt
 
 #### Spiced prep material
+
 [data science](https://spiced.space/datascience/prep)
+
 [full stack](https://spiced.space/fullstack/prep)
 
 #### JavaScript
