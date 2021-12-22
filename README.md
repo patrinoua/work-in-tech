@@ -245,7 +245,7 @@ Optimize your terminal [link](https://www.youtube.com/watch?v=xy9OIJWtarc&list=P
 ##### zsh
 ##### zsh-autosuggestions [link](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 Clone this repository into $ZSH_CUSTOM/plugins (by default ~/.oh-my-zsh/custom/plugins)
-` git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions `
+``` git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions ```
 Add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc):
 ```
 plugins=( 
