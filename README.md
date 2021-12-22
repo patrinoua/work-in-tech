@@ -238,3 +238,7 @@ Communication & Design Rules [link](https://github.com/CocoaPods/CocoaPods/wiki/
 
 ### Interesting videos
 Grit: The power of passion and perseverance [link](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en)
+
+### Tools
+#### Terminal
+Optimize your terminal [link](https://www.youtube.com/watch?v=xy9OIJWtarc&list=PLRHtAyhZJXF751DzeAC1kyFZJGtlWgtCO&index=32)
