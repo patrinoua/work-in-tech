@@ -258,3 +258,8 @@ plugins=(
 )
 ```
 
+Start a new terminal session or run
+
+``` 
+source .zshrc
+```
