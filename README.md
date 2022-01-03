@@ -2,14 +2,37 @@
 
 This is a collection of resources I've found over time including learning material, best practices and tips if you're currently looking for a new position. Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
 
+Working in tech is fun! This is a guide with the most useful resources I've found over the years.
 
-## Learning Resources
+If you are interested in getting into tech yourself, you can start by joining a bootcamp or checking out the courses individually.
 
-#### Learning Platforms
+### Roadmaps
 
 https://roadmap.sh/ Step by step guides and paths to learn different tools or technologies
 
 Another roadmap [roadmap](https://frontendmasters.com/guides/learning-roadmap/) with lots of links connected for learning more things!
+
+### Spiced prep material
+Start with these if you are not sure if it's for you. These are introductory courses that will help you get a deeper dive into the topics.
+
+[Full Stack](https://spiced.space/fullstack/prep)
+
+[Data Science](https://spiced.space/datascience/prep)
+
+### Bootcamps
+Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
+
+[Startsteps.org](Startsteps.org) - help you decide which is the right bootcamp for you
+
+♥ [Spiced Academy](Spiced.Academy) - intense full stack and Data Science bootcamp (the one I attended!)
+
+[Career Foundry](https://careerfoundry.com) - online full stack and UI/UX bootcamp 
+
+Online bootcamps[link](https://www.google.com/search?q=full+stack+development+courses+online&oq=full+stack+development+courses+online&aqs=chrome..69i57j0i19i22i30l9.14977j0j7&sourceid=chrome&ie=UTF-8)
+
+## Learning Resources
+
+#### Learning Platforms
 
 by Google https://learndigital.withgoogle.com/digitalgarage/courses
 
@@ -35,11 +58,6 @@ https://careerkarma.com/blog/best-free-coding-bootcamp-options/ // free bootcamp
 
 https://github.com/sindresorhus/pure customise your terminal / pure prompt
 
-#### Spiced prep material
-
-[Data Science](https://spiced.space/datascience/prep)
-
-[Full Stack](https://spiced.space/fullstack/prep)
 
 #### JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -126,20 +144,12 @@ import-sort-style-module [link](https://www.npmjs.com/package/import-sort-style-
 
 babel-plugin-module-resolver [link](https://github.com/tleunen/babel-plugin-module-resolver/) enables you to make absolute imports
 
-#### Courses taken/completed
+#### Courses I've taken/completed
  
 React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266)
 
 UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
-## Bootcamps
-Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
-
-[Startsteps.org](Startsteps.org) - help you decide which is the right bootcamp for you
-
-♥ [Spiced Academy](Spiced.Academy) - intense full stack and Data Science bootcamp (the one I attended!)
-
-[Career Foundry](https://careerfoundry.com) - online full stack and UI/UX bootcamp 
 
 ## When looking for a new position
 
