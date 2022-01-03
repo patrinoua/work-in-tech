@@ -1,16 +1,15 @@
 # Tech Tips!
 
-This is a collection of resources I've found over time including learning material, best practices and tips if you're currently looking for a new position. Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
+Working in tech is fun! 
+This is a guide with the most useful resources I've found over the years, including learning material, best practices and tips if you're considering joining tech or currently looking for a new position. 
 
-Working in tech is fun! This is a guide with the most useful resources I've found over the years.
+Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
 
-If you are interested in getting into tech yourself, you can start by joining a bootcamp or checking out the courses individually.
+### Roadmaps: Step by step guides and paths to learn different tools or technologies
 
-### Roadmaps
+https://roadmap.sh/ 
 
-https://roadmap.sh/ Step by step guides and paths to learn different tools or technologies
-
-Another roadmap [roadmap](https://frontendmasters.com/guides/learning-roadmap/) with lots of links connected for learning more things!
+https://frontendmasters.com/guides/learning-roadmap/
 
 ### Spiced prep material
 Start with these if you are not sure if it's for you. These are introductory courses that will help you get a deeper dive into the topics.
