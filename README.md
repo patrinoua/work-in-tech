@@ -5,7 +5,7 @@ This is a guide with the most useful resources I've found over the years, includ
 
 Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
 
-### Roadmaps: Step by step guides and paths to learn different tools or technologies
+### Roadmaps: Step by step guides and paths to learn different tools and technologies
 
 https://roadmap.sh/ 
 
@@ -14,9 +14,9 @@ https://frontendmasters.com/guides/learning-roadmap/
 ### Spiced prep material
 Start with these if you are not sure if it's for you. These are introductory courses that will help you get a deeper dive into the topics.
 
-[Full Stack](https://spiced.space/fullstack/prep)
+Full Stack Development [link](https://spiced.space/fullstack/prep)
 
-[Data Science](https://spiced.space/datascience/prep)
+Data Science [link](https://spiced.space/datascience/prep)
 
 ### Bootcamps
 Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
