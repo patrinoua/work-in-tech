@@ -61,15 +61,13 @@ https://github.com/sindresorhus/pure customise your terminal / pure prompt
 #### JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+♥ https://github.com/getify/You-Dont-Know-JS
+
 https://github.com/rwaldron/idiomatic.js
 
 http://ecma-international.org/ecma-262/5.1/
 
 http://ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-
-♥ https://github.com/getify/You-Dont-Know-JS
-
-https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
 
 15 most important things to know in JavaScript [link](https://codewithanto.medium.com/15-most-important-concepts-that-every-javascript-programmer-must-know-e0f0f04db3e0)
 
