@@ -7,9 +7,9 @@ Feel free to reach out to me if you know an interesting link that I could add he
 
 ### Roadmaps: Step by step guides and paths to learn different tools and technologies
 
-https://roadmap.sh/ 
+roadmap.sh
 
-https://frontendmasters.com/guides/learning-roadmap/
+frontendmasters.com/guides/learning-roadmap
 
 ### Spiced prep material
 Start with these if you are not sure if it's for you. These are introductory courses that will help you get a deeper dive into the topics.
