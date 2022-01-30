@@ -39,28 +39,21 @@ Online bootcamps[link](https://www.google.com/search?q=full+stack+development+co
 
 [theodinproject.com](https://www.theodinproject.com/) - Open source, somewhat more advanced, cool projects, discord community
 
-##### More learning resources
+##### More code related learning resources
 
-by Google https://learndigital.withgoogle.com/digitalgarage/courses
+[careerkarma.com](careerkarma.com/blog/best-free-coding-bootcamp-options) - list of free bootcamps
 
-by Microsoft https://docs.microsoft.com/en-us/learn/
+[codecademy.com](codecademy.com/catalog/subject/all)
 
-https://www.codecademy.com/catalog/subject/all
+[khanacademy.org](khanacademy.org)
 
-https://www.khanacademy.org/
+[frontendmasters.com](frontendmasters.com) // paid platform
 
-https://frontendmasters.com // paid platform
+[pluralsight.com](pluralsight.com) // paid platform
 
-https://pluralsight.com // paid platform
+[leetcode.com](leetcode.com) - Interview Preparation
 
-https://leetcode.com/ Prepare for Interview
-
-Saylor.org - learn different skills - free 
-
-https://careerkarma.com/blog/best-free-coding-bootcamp-options/ // free bootcamps
-
-https://github.com/sindresorhus/pure customise your terminal / pure prompt
-
+[Saylor.org](Saylor.org) - learn different skills - free 
 
 #### JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -94,6 +87,14 @@ Learn TypeScript youtube.com/watch?v=BwuLxPH8IDs
 #### by Artsy [link](https://github.com/artsy/README/blob/main/resources/tech-learning.md)
 
 Relay Workshop [link](https://github.com/artsy/relay-workshop/)
+
+##### More  learning resources
+
+by Google https://learndigital.withgoogle.com/digitalgarage/courses
+
+by Microsoft https://docs.microsoft.com/en-us/learn/
+
+-----------
 
 ### JavaScript Interview Questions
 https://dev.to/maxpou/typical-javascript-interview-exercises-explained
@@ -252,3 +253,4 @@ Communication & Design Rules [link](github.com/CocoaPods/CocoaPods/wiki/Communic
 Grit: The power of passion and perseverance [link](ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en) and another [one](youtube.com/watch?v=sWctLEdIgi4) 
 
 ### [Tools](github.com/patrinoua/tools/blob/main/README.md)
+https://github.com/sindresorhus/pure customise your terminal / pure prompt
