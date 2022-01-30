@@ -7,7 +7,7 @@ Feel free to reach out to me if you know an interesting link that I could add he
 
 ### Roadmaps: Step by step guides and paths to learn different tools and technologies
 
-roadmap.sh
+[roadmap.sh](roadmap.sh)
 
 frontendmasters.com/guides/learning-roadmap
 
