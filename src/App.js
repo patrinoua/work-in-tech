@@ -25,10 +25,12 @@ const Title = styled.h1`
 `
 const Regular = styled.h4`
 	max-width: 800px;
-	margin: 0.4em;
+	margin: 0.6em;
 	font-size: 1.5em;
 	text-align: center;
 	color: ${regularColor};
+	font-family: verdana;
+	font-weight: 100;
 `
 const A = styled.a`
 	text-decoration-color: ${headlineColor};
@@ -94,7 +96,7 @@ function App() {
 					href='https://angelapatrinou.com'
 					target='_blank'
 					rel='noopener noreferrer'
-					style={{ textDecorationColor: 'white' }}
+					style={{ textDecorationColor: 'white', marginBottom: 50 }}
 				>
 					<H3> Angela Patrinou</H3>
 				</a>
@@ -106,7 +108,7 @@ function App() {
 					fontSize: '1.2em',
 					opacity: '0.7',
 					position: 'absolute',
-					bottom: 20,
+					bottom: -110,
 				}}
 			>
 				*Paid Service
