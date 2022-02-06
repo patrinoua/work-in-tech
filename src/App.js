@@ -16,18 +16,18 @@ const Container = styled.div`
 	background: -webkit-linear-gradient(0.62turn, #99a8af, #011010);
 `
 const Title = styled.h1`
-	font-size: 120px;
-	font-size: 9em;
+	font-size: 8em;
 	margin: 0.4em;
-	background: white; //-webkit-linear-gradient(0.5turn, #eee, #133);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+	color: white;
+	text-align: center;
 `
 const Regular = styled.h4`
+	font-size: 1.2em;
 	max-width: 800px;
 	margin: 0.6em;
-	font-size: 1.5em;
-	text-align: center;
+	margin-right: 1em;
+	margin-left: 1em;
+	text-align: justify;
 	color: ${regularColor};
 	font-family: verdana;
 	font-weight: 100;
@@ -36,11 +36,10 @@ const A = styled.a`
 	text-decoration-color: ${headlineColor};
 `
 const H2 = styled.h2`
-	font-size: 3em;
-	margin: 0.5em;
-
-	/* font-family: 'Montserrat', sans-serif; */
+	font-size: 2.5em;
+	margin: 1em 0;
 	letter-spacing: 0.2;
+	text-align: center;
 	color: ${headlineColor};
 `
 const H3 = styled(H2)`
@@ -87,28 +86,46 @@ function App() {
 				<H2>Interview Preparation</H2>
 			</A>
 			<Regular>
-				You can contact me here me for personalised advice or feedback on your
-				CV, code reviews, mock interviews etc.*
+				You can contact me for personalised advice or feedback on your CV, code
+				reviews, mock interviews etc.*
 			</Regular>
-			<div style={{ display: 'flex', marginRight: '15px' }}>
-				<H3 style={{ marginRight: '10px' }}>Made by </H3>
+			<div
+				style={{
+					display: 'flex',
+					marginRight: '15px',
+					fontSize: '.9em',
+					marginTop: 50,
+				}}
+			>
+				<Regular style={{ marginRight: '10px' }}>Made by </Regular>
 				<a
 					href='https://angelapatrinou.com'
 					target='_blank'
 					rel='noopener noreferrer'
-					style={{ textDecorationColor: 'white', marginBottom: 50 }}
+					style={{ textDecorationColor: 'white' }}
 				>
-					<H3> Angela Patrinou</H3>
+					<Regular>Angela Patrinou,</Regular>
 				</a>
+			</div>
+			<div style={{ display: 'flex', marginRight: '15px', fontSize: '.9em' }}>
+				<Regular style={{ marginRight: '10px' }}>creator of</Regular>
+				<a
+					href='https://angelapatrinou.com'
+					target='_blank'
+					rel='noopener noreferrer'
+					style={{ textDecorationColor: 'white' }}
+				>
+					<Regular>Buddies</Regular>
+				</a>
+				<Regular>the expat app.</Regular>
 			</div>
 			<Regular
 				style={{
 					alignSelf: 'flex-end',
 					marginRight: 20,
-					fontSize: '1.2em',
+					fontSize: '1em',
 					opacity: '0.7',
-					position: 'absolute',
-					bottom: -110,
+					marginBottom: 20,
 				}}
 			>
 				*Paid Service
