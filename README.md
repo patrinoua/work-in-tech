@@ -1,4 +1,4 @@
-# Tech Tips!
+# Work-in-Tech.org
 
 Working in tech is fun! 
 
