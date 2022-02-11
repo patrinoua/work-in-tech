@@ -1,6 +1,9 @@
 # Tech Tips!
 
 Working in tech is fun! 
+
+Wether you're more into code or design there is plenty of opportunities out there. 
+
 This is a guide with the most useful resources I've found over the years, including learning material, best practices and tips if you're considering joining tech or currently looking for a new position. 
 
 Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
@@ -23,9 +26,9 @@ Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
 
 [Startsteps.org](Startsteps.org) - help you decide which is the right bootcamp for you
 
-♥ [Spiced Academy](Spiced.Academy) - intense full stack and Data Science bootcamp (the one I attended!)
+♥ [Spiced Academy](Spiced.Academy) - intense full stack and Data Science bootcamp (the one I attended and can recommend!)
 
-[Career Foundry](https://careerfoundry.com) - online full stack and UI/UX bootcamp 
+[Career Foundry](https://careerfoundry.com) - online full stack and UI/UX bootcamp (if you're more into design!)
 
 Online bootcamps[link](https://www.google.com/search?q=full+stack+development+courses+online&oq=full+stack+development+courses+online&aqs=chrome..69i57j0i19i22i30l9.14977j0j7&sourceid=chrome&ie=UTF-8)
 
@@ -33,7 +36,7 @@ Online bootcamps[link](https://www.google.com/search?q=full+stack+development+co
 
 #### Learning Platforms
 
-##### Free Online Organised resources for learning Web Technologies
+##### Free Online Organised resources for learning Web Technologies and becoming a Web Developer
 
 [freecodecamp.org](www.freecodecamp.org) - Easy, take by the hand, great for beginning your trip!
 
