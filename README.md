@@ -8,41 +8,54 @@ This is a guide with the most useful resources I've found over the years, includ
 
 Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
 
-### Roadmaps: Step by step guides and paths to learn different tools and technologies
+## Why? 
+- [hired.com/blog/candidates/3-highest-paid-jobs-technology](https://www.hired.com/blog/candidates/3-highest-paid-jobs-technology)
 
-[roadmap.sh](roadmap.sh)
+- [the-ultimate-guide-to-finding-a-new-job-fast-efficiently](https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
 
-[frontendmasters.com/guides/learning-roadmap](frontendmasters.com/guides/learning-roadmap)
+- How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
 
-### Spiced prep material
-Start with these if you are not sure if it's for you. These are introductory courses that will help you get a deeper dive into the topics.
-
-Full Stack Development [link](https://spiced.space/fullstack/prep)
-
-Data Science [link](https://spiced.space/datascience/prep)
+## Is this for you?
 
 ### Bootcamps
 Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
 
-[Startsteps.org](Startsteps.org) - help you decide which is the right bootcamp for you
+[Startsteps.org](Startsteps.org) - helps you decide which is the right bootcamp for you
 
 ♥ [Spiced Academy](Spiced.Academy) - intense full stack and Data Science bootcamp (the one I attended and can recommend!)
 
 [Career Foundry](https://careerfoundry.com) - online full stack and UI/UX bootcamp (if you're more into design!)
 
-Online bootcamps[link](https://www.google.com/search?q=full+stack+development+courses+online&oq=full+stack+development+courses+online&aqs=chrome..69i57j0i19i22i30l9.14977j0j7&sourceid=chrome&ie=UTF-8)
 
-## Learning Resources
+### Free Online Bootcamps for Web Technologies 
 
-#### Learning Platforms
-
-##### Free Online Organised resources for learning Web Technologies and becoming a Web Developer
+Join an online community and learn at your own time, for free
 
 [freecodecamp.org](https://www.freecodecamp.org) - Easy, take by the hand, great for beginning your trip!
 
 [theodinproject.com](https://www.theodinproject.com/) - Open source, somewhat more advanced, cool projects, discord community
 
-##### More code related learning resources
+Online bootcamps[link](https://www.google.com/search?q=full+stack+development+courses+online&oq=full+stack+development+courses+online&aqs=chrome..69i57j0i19i22i30l9.14977j0j7&sourceid=chrome&ie=UTF-8)
+
+#### Try the prep material to see if it's for you
+
+Start with these introductory exercises that will help you get a basic understanding of the topics if you are not sure if this is for you.
+
+Full Stack Development [link](https://spiced.space/fullstack/prep)
+
+Data Science [link](https://spiced.space/datascience/prep)
+
+[Career Foundry](https://careerfoundry.com) - also offers free introductory courses on UI/UX 
+
+## Learning Resources
+
+### Roadmaps: Step by step guides and paths to learn different tools and technologies
+
+[roadmap.sh](https://roadmap.sh)
+
+[frontendmasters.com/guides/learning-roadmap](https://frontendmasters.com/guides/learning-roadmap)
+
+#### Learning Platforms
 
 [careerkarma.com](https://www.careerkarma.com/blog/best-free-coding-bootcamp-options) - list of free bootcamps
 
@@ -59,6 +72,7 @@ Online bootcamps[link](https://www.google.com/search?q=full+stack+development+co
 [Saylor.org](https://www.Saylor.org) - learn different skills - free 
 
 #### JavaScript
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ♥ https://github.com/getify/You-Dont-Know-JS
@@ -91,7 +105,7 @@ Learn TypeScript youtube.com/watch?v=BwuLxPH8IDs
 
 Relay Workshop [link](https://github.com/artsy/relay-workshop/)
 
-##### More  learning resources
+#### More  learning resources
 
 by Google https://learndigital.withgoogle.com/digitalgarage/courses
 
@@ -99,29 +113,18 @@ by Microsoft https://docs.microsoft.com/en-us/learn/
 
 -----------
 
-### JavaScript Interview Questions
-https://dev.to/maxpou/typical-javascript-interview-exercises-explained
-
-Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview-part-1-overview)
-
-### Coding Challenges
-Codewars.com
-
-♥ https://www.hackerrank.com/interview/interview-preparation-kit
-
-
-### CSS
+##### CSS
 https://markodenic.com/css-tips/
 
-### Design
+##### Design
 ♥ Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
 
 COLOR & TYPOGRAPHY https://www.colorsandfonts.com/
 
-### Testing
+##### Testing
 Unit / Integration / End to end testing [link](https://cultivate.software/unit-vs-integration-vs-acceptance-test/)
 
-### Quality
+##### Quality
 
 Atomic Design [link](https://bradfrost.com/blog/post/atomic-web-design/)
 
@@ -130,7 +133,6 @@ Atomic Design [link](https://bradfrost.com/blog/post/atomic-web-design/)
 Tips for clean code [link](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
 
 ### Other Links
-How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
 
 https://javascript.christmas/2020
 
@@ -211,30 +213,34 @@ Good luck! :)
 
 ### 2. Interview preparation
 
-#### React 
+♥ https://www.hackerrank.com/interview/interview-preparation-kit
 
-[dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h](dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h)
-
-#### Tech Interview Handbook
+##### Tech Interview Handbook
 [github.com/yangshun/tech-interview-handbook](https://www.github.com/yangshun/tech-interview-handbook)
 
-#### Example of what companies look for in Interviewees
+##### Example of what companies look for in Interviewees
 [medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba](https://www.medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba)
 
-#### 15 days cheat sheet for hacking technical interviews at big tech companies
-[medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1](medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1)
+##### 15 days cheat sheet for hacking technical interviews at big tech companies
+[medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1](https://medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1)
 
-#### More tips
 [fullstackinterviewing.com](https://www.fullstackinterviewing.com)
 
-[the-ultimate-guide-to-finding-a-new-job-fast-efficiently](https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
+##### JavaScript Interview Questions
+https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 
-#### Highest Paid Jobs in Tech 
-[hired.com/blog/candidates/3-highest-paid-jobs-technology](https://www.hired.com/blog/candidates/3-highest-paid-jobs-technology)
+Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview-part-1-overview)
+
+##### React 
+
+[dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h](https://dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h)
+
+#### Coding Challenges
+Codewars.com
 
 ### 3. Start Applying
 
-#### Where to find position openings
+#### Find position openings
 [Indeed.de](https://de.indeed.com)
 
 [LinkedIn](https://www.linkedin.com/jobs)
