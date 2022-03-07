@@ -38,25 +38,25 @@ Online bootcamps[link](https://www.google.com/search?q=full+stack+development+co
 
 ##### Free Online Organised resources for learning Web Technologies and becoming a Web Developer
 
-[freecodecamp.org](www.freecodecamp.org) - Easy, take by the hand, great for beginning your trip!
+[freecodecamp.org](https://www.freecodecamp.org) - Easy, take by the hand, great for beginning your trip!
 
 [theodinproject.com](https://www.theodinproject.com/) - Open source, somewhat more advanced, cool projects, discord community
 
 ##### More code related learning resources
 
-[careerkarma.com](careerkarma.com/blog/best-free-coding-bootcamp-options) - list of free bootcamps
+[careerkarma.com](https://www.careerkarma.com/blog/best-free-coding-bootcamp-options) - list of free bootcamps
 
-[codecademy.com](codecademy.com/catalog/subject/all)
+[codecademy.com](https://www.codecademy.com/catalog/subject/all)
 
-[khanacademy.org](khanacademy.org)
+[khanacademy.org](https://www.khanacademy.org)
 
-[frontendmasters.com](frontendmasters.com) // paid platform
+[frontendmasters.com](https://www.frontendmasters.com) // paid platform
 
-[pluralsight.com](pluralsight.com) // paid platform
+[pluralsight.com](https://www.pluralsight.com) // paid platform
 
-[leetcode.com](leetcode.com) - Interview Preparation
+[leetcode.com](https://www.leetcode.com) - Interview Preparation
 
-[Saylor.org](Saylor.org) - learn different skills - free 
+[Saylor.org](https://www.Saylor.org) - learn different skills - free 
 
 #### JavaScript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -75,11 +75,11 @@ JavaScript API cheatsheet [link](https://overapi.com/javascript)
 
 #### React
 
-[github.com/ReactTraining](github.com/ReactTraining)
+[github.com/ReactTraining](https://www.github.com/ReactTraining)
 
-[easyontheweb.com/reactjs-resources-for-beginners-from-scratch](easyontheweb.com/reactjs-resources-for-beginners-from-scratch/)
+[easyontheweb.com/reactjs-resources-for-beginners-from-scratch](https://www.easyontheweb.com/reactjs-resources-for-beginners-from-scratch/)
 
-codeburst.io - Learn React JS — Build a Portfolio [link](codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
+codeburst.io - Learn React JS — Build a Portfolio [link](https://www.codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
 
 ---
 React Roadmap youtube.com/watch?v=Ip_jOSpThSg 
@@ -216,44 +216,44 @@ Good luck! :)
 [dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h](dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h)
 
 #### Tech Interview Handbook
-[github.com/yangshun/tech-interview-handbook](github.com/yangshun/tech-interview-handbook)
+[github.com/yangshun/tech-interview-handbook](https://www.github.com/yangshun/tech-interview-handbook)
 
 #### Example of what companies look for in Interviewees
-[medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba](medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba)
+[medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba](https://www.medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba)
 
 #### 15 days cheat sheet for hacking technical interviews at big tech companies
 [medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1](medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1)
 
 #### More tips
-[fullstackinterviewing.com](www.fullstackinterviewing.com)
+[fullstackinterviewing.com](https://www.fullstackinterviewing.com)
 
 [the-ultimate-guide-to-finding-a-new-job-fast-efficiently](https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
 
 #### Highest Paid Jobs in Tech 
-[hired.com/blog/candidates/3-highest-paid-jobs-technology](hired.com/blog/candidates/3-highest-paid-jobs-technology)
+[hired.com/blog/candidates/3-highest-paid-jobs-technology](https://www.hired.com/blog/candidates/3-highest-paid-jobs-technology)
 
 ### 3. Start Applying
 
 #### Where to find position openings
-[Indeed.de](de.indeed.com)
+[Indeed.de](https://de.indeed.com)
 
-[LinkedIn](linkedin.com/jobs)
+[LinkedIn](https://www.linkedin.com/jobs)
 
-talent.io - you can use my referal on this [link](talent.io/ref/FqzSvdMY)
+talent.io - you can use my referal on this [link](https://talent.io/ref/FqzSvdMY)
 
-[berlinstartupjobs.com](berlinstartupjobs.com)
+[berlinstartupjobs.com](https://berlinstartupjobs.com)
 
 # 
 
 ### Interesting reads
-"The secret of raising smart kids" (Or what it means to have a growth mindset - Scientific American [link](scientificamerican.com/article/the-secret-to-raising-smart-kids1/)
+"The secret of raising smart kids" (Or what it means to have a growth mindset - Scientific American [link](https://scientificamerican.com/article/the-secret-to-raising-smart-kids1/)
 
-Feature flags [link](launchdarkly.com/blog/what-are-feature-flags)
+Feature flags [link](https://launchdarkly.com/blog/what-are-feature-flags)
 
-Communication & Design Rules [link](github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules#communication-rules)
+Communication & Design Rules [link](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules#communication-rules)
 
 ### Interesting videos
-Grit: The power of passion and perseverance [link](ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en) and another [one](youtube.com/watch?v=sWctLEdIgi4) 
+Grit: The power of passion and perseverance [link](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en) and another [one](https://youtube.com/watch?v=sWctLEdIgi4) 
 
-### [Tools](github.com/patrinoua/tools/blob/main/README.md)
+### [Tools](https://github.com/patrinoua/tools/blob/main/README.md)
 https://github.com/sindresorhus/pure customise your terminal / pure prompt
