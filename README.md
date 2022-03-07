@@ -47,9 +47,9 @@ Data Science [link](https://spiced.space/datascience/prep)
 
 [Career Foundry](https://careerfoundry.com) offers free introductory courses on UI/UX 
 
-## Learning Resources
+### Learning Resources
 
-### Roadmaps: Step by step guides and paths to learn different tools and technologies
+#### Roadmaps: Step by step guides and paths to learn different tools and technologies
 
 [roadmap.sh](https://roadmap.sh)
 
@@ -132,7 +132,7 @@ Atomic Design [link](https://bradfrost.com/blog/post/atomic-web-design/)
 
 Tips for clean code [link](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
 
-### Other Links
+##### Other Links
 
 https://javascript.christmas/2020
 
@@ -146,22 +146,22 @@ Cool advanced articles https://advancedweb.dev/
 
 Git Book [link](https://git-scm.com/book/en/v2)
 
-### Cool npm packages 
+##### Cool npm packages 
 
 import-sort-style-module [link](https://www.npmjs.com/package/import-sort-style-module) automatically arranges imports
 
 babel-plugin-module-resolver [link](https://github.com/tleunen/babel-plugin-module-resolver/) enables you to make absolute imports
 
-#### Courses I've taken/completed
+##### Courses I've taken/completed
  
 React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266)
 
 UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
 
-## When looking for a new position
+### When looking for a new position
 
-### 0. Know What you are looking for
+#### 0. Know What you are looking for
 Write a paragraph where you describe your Dream Job. Then also make a list of points that are important to you. On every Interview write down the facts of these points you learned from the Interview, rate them (I use a 1-5 stars system, where 1 is very bad and 5 is excellent) and in the end come up with a general rating.
 
 
@@ -187,21 +187,21 @@ Example bullets could be
 
 Interviewing and coding challenges can be a lengthy procedure, so only apply for positions that you would actually like to have and you will not end up rejecting later. Cultural fit is another important thing to consider. 
 
-### 1. Pump up your Online Presence
-#### Kick-ass CV
+#### 1. Pump up your Online Presence
+##### Kick-ass CV
 Take a look on canva (https://www.canva.com/templates/resumes/) where they have lots of free modern CV templates and see if you find something you like there. For a more serious format you can also check https://novoresume.com/
   On your CV do not forget to include useful links to github, linkedin etc.
-#### LinkedIn
+##### LinkedIn
 Fill your LinkedIn with relevant information about positions/projects you had in the past.
 Optimise your linkedin [link](https://careers.workopolis.com/advice/optimize-linkedin-profile-job-hunt-will-thank/)
-#### Github
+##### Github
 If you are an aspiring coder show people your projects and how you write code on Github or a similar platform.
-#### Portfolio
+##### Portfolio
 If your job is online/creative it's probably a good idea to have a portfolio.
 This is your chance to show the world your favorite projects! Keep it narrow - remember nowdays in an overflood of information attention spans tend to be limitted. Choose your 3-5 most impressive projects and write maximum 100 words to describe them.  
 You can build a custom one, try wix (http://wix.com/), or get in touch with me.
 
-#### All set, ready, go! Time for feedback!
+##### All set, ready, go! Time for feedback!
 Don't forget to add links to everything so people can easily have access to it! :) 
 
 Have a link to your Portfolio on linkedIn, a link to your Github on your Portfolio (also a link to linkedIn and maybe CV), etc. 
