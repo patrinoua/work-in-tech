@@ -8,26 +8,26 @@ This is a guide with the most useful resources I've found over the years, includ
 
 Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
 
-## Why? 
-- [hired.com/blog/candidates/3-highest-paid-jobs-technology](https://www.hired.com/blog/candidates/3-highest-paid-jobs-technology)
+### Why? 
+[hired.com/blog/candidates/3-highest-paid-jobs-technology](https://www.hired.com/blog/candidates/3-highest-paid-jobs-technology)
 
-- [the-ultimate-guide-to-finding-a-new-job-fast-efficiently](https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
+[the-ultimate-guide-to-finding-a-new-job-fast-efficiently](https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
 
-- How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
+How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
 
-## Is this for you?
+### Is this for you?
 
-### Bootcamps
+#### Bootcamps
 Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
 
 [Startsteps.org](Startsteps.org) - helps you decide which is the right bootcamp for you
 
-♥ [Spiced Academy](Spiced.Academy) - intense full stack and Data Science bootcamp (the one I attended and can recommend!)
+♥ [Spiced Academy](Spiced.Academy) - paid intense full stack and Data Science bootcamp (the one I attended and can recommend!)
 
-[Career Foundry](https://careerfoundry.com) - online full stack and UI/UX bootcamp (if you're more into design!)
+[Career Foundry](https://careerfoundry.com) - paid online full stack and UI/UX bootcamp (if you're more into design!)
 
 
-### Free Online Bootcamps for Web Technologies 
+#### Free Online Bootcamps for Web Technologies 
 
 Join an online community and learn at your own time, for free
 
@@ -45,7 +45,7 @@ Full Stack Development [link](https://spiced.space/fullstack/prep)
 
 Data Science [link](https://spiced.space/datascience/prep)
 
-[Career Foundry](https://careerfoundry.com) - also offers free introductory courses on UI/UX 
+[Career Foundry](https://careerfoundry.com) offers free introductory courses on UI/UX 
 
 ## Learning Resources
 
