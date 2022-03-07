@@ -8,14 +8,14 @@ This is a guide with the most useful resources I've found over the years, includ
 
 Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
 
-### Why? 
-[hired.com/blog/candidates/3-highest-paid-jobs-technology](https://www.hired.com/blog/candidates/3-highest-paid-jobs-technology)
-
-[the-ultimate-guide-to-finding-a-new-job-fast-efficiently](https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
+## Why? 
+The 3 Highest Paid Jobs in Tech [link](https://www.hired.com/blog/candidates/3-highest-paid-jobs-technology)
 
 How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
 
-### Is this for you?
+The Ultimate Guide to Finding a New Job Fast & Efficiently [link](https://medium.com/@adriaankolff/the-ultimate-guide-to-finding-a-new-job-fast-efficiently-23ac5a50d2c8)
+
+## How?
 
 #### Bootcamps
 Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
@@ -159,7 +159,7 @@ React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/cou
 UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
 
-### When looking for a new position
+## When looking for a new position
 
 #### 0. Know What you are looking for
 Write a paragraph where you describe your Dream Job. Then also make a list of points that are important to you. On every Interview write down the facts of these points you learned from the Interview, rate them (I use a 1-5 stars system, where 1 is very bad and 5 is excellent) and in the end come up with a general rating.
@@ -211,7 +211,7 @@ I'd be happy to take a look on your online presence and CV and suggest improveme
 
 Good luck! :)
 
-### 2. Interview preparation
+## 2. Interview preparation
 
 ♥ https://www.hackerrank.com/interview/interview-preparation-kit
 
@@ -238,7 +238,7 @@ Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview
 #### Coding Challenges
 Codewars.com
 
-### 3. Start Applying
+## 3. Start Applying
 
 #### Find position openings
 [Indeed.de](https://de.indeed.com)
@@ -251,7 +251,7 @@ talent.io - you can use my referal on this [link](https://talent.io/ref/FqzSvdMY
 
 # 
 
-### Interesting reads
+## Interesting reads
 "The secret of raising smart kids" (Or what it means to have a growth mindset - Scientific American [link](https://scientificamerican.com/article/the-secret-to-raising-smart-kids1/)
 
 Feature flags [link](https://launchdarkly.com/blog/what-are-feature-flags)
@@ -259,7 +259,7 @@ Feature flags [link](https://launchdarkly.com/blog/what-are-feature-flags)
 Communication & Design Rules [link](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules#communication-rules)
 
 ### Interesting videos
-Grit: The power of passion and perseverance [link](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en) and another [one](https://youtube.com/watch?v=sWctLEdIgi4) 
+**Grit**: The power of passion and perseverance [link](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en) and another [one](https://youtube.com/watch?v=sWctLEdIgi4) 
 
 ### [Tools](https://github.com/patrinoua/tools/blob/main/README.md)
 https://github.com/sindresorhus/pure customise your terminal / pure prompt
