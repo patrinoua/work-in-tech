@@ -47,7 +47,7 @@ Data Science [link](https://spiced.space/datascience/prep)
 
 [Career Foundry](https://careerfoundry.com) offers free introductory courses on UI/UX 
 
-### Learning Resources
+## Learning Resources
 
 #### Roadmaps: Step by step guides and paths to learn different tools and technologies
 
@@ -245,7 +245,6 @@ talent.io - you can use my referal on this [link](https://talent.io/ref/FqzSvdMY
 
 [berlinstartupjobs.com](https://berlinstartupjobs.com)
 
-# 
 
 ## Interesting reads
 "The secret of raising smart kids" (Or what it means to have a growth mindset - Scientific American [link](https://scientificamerican.com/article/the-secret-to-raising-smart-kids1/)
