@@ -89,21 +89,15 @@ JavaScript API cheatsheet [link](https://overapi.com/javascript)
 
 #### React
 
+React Roadmap youtube.com/watch?v=Ip_jOSpThSg 
+
 [github.com/ReactTraining](https://www.github.com/ReactTraining)
 
 [easyontheweb.com/reactjs-resources-for-beginners-from-scratch](https://www.easyontheweb.com/reactjs-resources-for-beginners-from-scratch/)
 
 codeburst.io - Learn React JS — Build a Portfolio [link](https://www.codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
 
----
-React Roadmap youtube.com/watch?v=Ip_jOSpThSg 
-
 Learn TypeScript youtube.com/watch?v=BwuLxPH8IDs 
-
-
-#### by Artsy [link](https://github.com/artsy/README/blob/main/resources/tech-learning.md)
-
-Relay Workshop [link](https://github.com/artsy/relay-workshop/)
 
 #### More  learning resources
 
@@ -111,7 +105,9 @@ by Google https://learndigital.withgoogle.com/digitalgarage/courses
 
 by Microsoft https://docs.microsoft.com/en-us/learn/
 
------------
+by Artsy [link](https://github.com/artsy/README/blob/main/resources/tech-learning.md)
+
+Artsy's Relay Workshop [link](https://github.com/artsy/relay-workshop/)
 
 ##### CSS
 https://markodenic.com/css-tips/
