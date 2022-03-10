@@ -59,8 +59,8 @@ function App() {
   return (
     <Container>
       <InnerContainer>
-        <Title>Work in tech</Title>
-        <H3>Working in tech is fun!</H3>
+        <Title>Work in Tech</Title>
+        <H3>Working in Tech is fun!</H3>
         <Regular>
           This is a guide with resources collected over the years, including
           learning material, best practices and tips if you're considering
