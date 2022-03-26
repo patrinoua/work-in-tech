@@ -10,7 +10,7 @@ const fontFamilyParagraphText = 'verdana'
 
 const Container = styled.div`
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -106,42 +106,37 @@ function App() {
         <div
           style={{
             display: 'flex',
+            justifyContent: 'center',
             marginRight: '15px',
             marginTop: 50,
-            display: 'flex',
-            fontSize: '.9em',
-            justifyContent: 'center',
           }}
         >
           <Regular style={{ marginRight: '10px' }}>Made by </Regular>
-          <a
+          <A
             href='https://angelapatrinou.com'
             target='_blank'
             rel='noopener noreferrer'
-            style={{ textDecorationColor: 'white' }}
+            // style={{ textDecorationColor: 'white' }}
           >
             <Regular>Angela Patrinou</Regular>
-          </a>
+          </A>
         </div>
         <div
           style={{
             display: 'flex',
-            fontSize: '.9em',
-            justifyContent: 'center',
           }}
         >
-          <Regular>creator of</Regular>
-          <a
-            href='https://angelapatrinou.com'
+          <Regular>Appreciate this?</Regular>
+          <A
+            href='https://www.buymeacoffee.com/patrinoua'
             target='_blank'
             rel='noopener noreferrer'
-            style={{ textDecorationColor: 'white' }}
+            // style={{ textDecorationColor: 'white' }}
           >
             <Regular style={{ marginLeft: '10px', marginRight: '10px' }}>
-              Buddies
+              Buy me coffee
             </Regular>
-          </a>
-          <Regular>the expat app.</Regular>
+          </A>
         </div>
         {/* <Regular
         style={{
