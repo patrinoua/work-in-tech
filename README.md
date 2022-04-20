@@ -2,7 +2,7 @@
 
 Working in tech is fun! 
 
-Wether you're more into code or design there is plenty of opportunities out there. 
+Wether you're more into code, data science, design, or marketing there is plenty of opportunities out there. 
 
 This is a guide with the most useful resources I've found over the years, including learning material, best practices and tips if you're considering joining tech or currently looking for a new position. 
 
