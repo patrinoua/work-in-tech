@@ -22,7 +22,7 @@ Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
 
 [Startsteps.org](Startsteps.org) - helps you decide which is the right bootcamp for you
 
-♥ [Spiced Academy](Spiced.Academy) - paid intense full stack and Data Science bootcamp (the one I attended and can recommend!)
+[Spiced Academy](Spiced.Academy) - paid intense full stack and Data Science bootcamp (the one I attended and can recommend!)
 
 [Career Foundry](https://careerfoundry.com) - paid online full stack and UI/UX bootcamp (if you're more into design!)
 
