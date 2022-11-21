@@ -99,6 +99,9 @@ codeburst.io - Learn React JS — Build a Portfolio [link](https://www.codeburst
 
 Learn TypeScript youtube.com/watch?v=BwuLxPH8IDs 
 
+#### Testing
+https://testing-library.com/docs/queries/about/#priority
+
 #### More  learning resources
 
 by Google https://learndigital.withgoogle.com/digitalgarage/courses
