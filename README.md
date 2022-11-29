@@ -260,6 +260,8 @@ Feature flags [link](https://launchdarkly.com/blog/what-are-feature-flags)
 
 Communication & Design Rules [link](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules#communication-rules)
 
+https://techstacks.io/
+
 ### Interesting videos
 **Grit**: The power of passion and perseverance [link](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en) and another [one](https://youtube.com/watch?v=sWctLEdIgi4) 
 
