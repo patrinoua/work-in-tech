@@ -265,5 +265,7 @@ https://techstacks.io/
 ### Interesting videos
 **Grit**: The power of passion and perseverance [link](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en) and another [one](https://youtube.com/watch?v=sWctLEdIgi4) 
 
+Aaron Swartz [link](https://www.youtube.com/watch?v=7ZBe1VFy0gc)
+
 ### Tools
 [link](https://github.com/patrinoua/tools/blob/main/README.md)
