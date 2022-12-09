@@ -14,7 +14,10 @@ Feel free to reach out to me if you know an interesting link that I could add he
 - [Bootcamps](#bootcamps) 
   - [Free Online Bootcamps for Web Technologies](#free-online-bootcamps-for-web-technologies)  
   - [Try the prep material to see if it's for you](#try-the-prep-material-to-see-if-it's-for-you)
-- [Learning Resources](#learning-resources)  
+<details>
+<summary>
+- [Learning Resources](#learning-resources) 
+</summary>
   - [Roadmaps](#Roadmaps)  
   - [Learning Platforms](#Learning-Platforms)  
   - [JavaScript](#JavaScript)  
@@ -28,7 +31,7 @@ Feel free to reach out to me if you know an interesting link that I could add he
   - [Other Links](#other-links) 
   - [Cool npm packages](#cool-npm-packages)
   - [Courses I've taken/completed](#courses-ive-taken/completed)
-
+<details> 
 
 - [](#)  
 
