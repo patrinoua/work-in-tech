@@ -16,7 +16,7 @@ Feel free to reach out to me if you know an interesting link that I could add he
   - [Try the prep material to see if it's for you](#try-the-prep-material-to-see-if-it's-for-you)
 <details>
 <summary>
-- [Learning Resources](#learning-resources) 
+[Learning Resources](#learning-resources) 
 </summary>
   - [Roadmaps](#Roadmaps)  
   - [Learning Platforms](#Learning-Platforms)  
