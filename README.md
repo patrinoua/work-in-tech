@@ -56,7 +56,7 @@ Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
 [Career Foundry](https://careerfoundry.com) - paid online full stack and UI/UX bootcamp (if you're more into design!)
 
 
-#### Free Online Bootcamps for Web Technologies 
+### Free Online Bootcamps for Web Technologies 
 
 Join an online community and learn at your own time, for free
 
@@ -66,7 +66,7 @@ Join an online community and learn at your own time, for free
 
 Online bootcamps[link](https://www.google.com/search?q=full+stack+development+courses+online&oq=full+stack+development+courses+online&aqs=chrome..69i57j0i19i22i30l9.14977j0j7&sourceid=chrome&ie=UTF-8)
 
-#### Try the prep material to see if it's for you
+### Try the prep material to see if it's for you
 
 Start with these introductory exercises that will help you get a basic understanding of the topics if you are not sure if this is for you.
 
@@ -78,13 +78,13 @@ Data Science [link](https://spiced.space/datascience/prep)
 
 ## Learning Resources
 
-#### Roadmaps: Step by step guides and paths to learn different tools and technologies
+### Roadmaps: Step by step guides and paths to learn different tools and technologies
 
 [roadmap.sh](https://roadmap.sh)
 
 [frontendmasters.com/guides/learning-roadmap](https://frontendmasters.com/guides/learning-roadmap)
 
-#### Learning Platforms
+### Learning Platforms
 
 [careerkarma.com](https://www.careerkarma.com/blog/best-free-coding-bootcamp-options) - list of free bootcamps
 
@@ -100,7 +100,7 @@ Data Science [link](https://spiced.space/datascience/prep)
 
 [Saylor.org](https://www.Saylor.org) - learn different skills - free 
 
-#### JavaScript
+### JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
@@ -116,11 +116,11 @@ http://ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 
 JavaScript API cheatsheet [link](https://overapi.com/javascript)
 
-#### From JS to React
+### From JS to React
 
 Tutorial by Nextjs [link](https://nextjs.org/learn/foundations/from-javascript-to-react)
 
-#### React
+### React
 
 React Roadmap youtube.com/watch?v=Ip_jOSpThSg 
 
@@ -133,7 +133,7 @@ codeburst.io - Learn React JS — Build a Portfolio [link](https://www.codeburst
 Learn TypeScript youtube.com/watch?v=BwuLxPH8IDs 
 
 
-#### More  learning resources
+### More learning resources
 
 by Google https://learndigital.withgoogle.com/digitalgarage/courses
 
@@ -143,20 +143,20 @@ by Artsy [link](https://github.com/artsy/README/blob/main/resources/tech-learnin
 
 Artsy's Relay Workshop [link](https://github.com/artsy/relay-workshop/)
 
-##### CSS
+### CSS
 https://markodenic.com/css-tips/
 
-##### Design
+### Design
 ♥ Smashing Magazine (Web Design & development) [link](https://www.smashingmagazine.com/)
 
 COLOR & TYPOGRAPHY https://www.colorsandfonts.com/
 
-##### Testing
+### Testing
 https://testing-library.com/docs/queries/about/#priority
 
 Unit / Integration / End to end testing [link](https://cultivate.software/unit-vs-integration-vs-acceptance-test/)
 
-##### Quality
+### Quality
 
 Atomic Design [link](https://bradfrost.com/blog/post/atomic-web-design/)
 
@@ -164,7 +164,7 @@ Atomic Design [link](https://bradfrost.com/blog/post/atomic-web-design/)
 
 Tips for clean code [link](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
 
-##### Other Links
+### Other Links
 
 https://javascript.christmas/2020
 
@@ -178,13 +178,13 @@ Cool advanced articles https://advancedweb.dev/
 
 Git Book [link](https://git-scm.com/book/en/v2)
 
-##### Cool npm packages 
+### Cool npm packages 
 
 import-sort-style-module [link](https://www.npmjs.com/package/import-sort-style-module) automatically arranges imports
 
 babel-plugin-module-resolver [link](https://github.com/tleunen/babel-plugin-module-resolver/) enables you to make absolute imports
 
-##### Courses I've taken/completed
+### Courses I've taken/completed
  
 React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266)
 
@@ -193,7 +193,7 @@ UX by udacity - Oct 2020 [link](https://classroom.udacity.com/courses/ud849)
 
 ## When looking for a new position
 
-#### 0. Know What you are looking for
+### 0. Know What you are looking for
 Write a paragraph where you describe your Dream Job. Then also make a list of points that are important to you. On every Interview write down the facts of these points you learned from the Interview, rate them (I use a 1-5 stars system, where 1 is very bad and 5 is excellent) and in the end come up with a general rating.
 
 
@@ -219,21 +219,25 @@ Example bullets could be
 
 Interviewing and coding challenges can be a lengthy procedure, so only apply for positions that you would actually like to have and you will not end up rejecting later. Cultural fit is another important thing to consider. 
 
-#### 1. Pump up your Online Presence
-##### Kick-ass CV
+### 1. Pump up your Online Presence
+
+#### Kick-ass CV
 Take a look on canva (https://www.canva.com/templates/resumes/) where they have lots of free modern CV templates and see if you find something you like there. For a more serious format you can also check https://novoresume.com/
   On your CV do not forget to include useful links to github, linkedin etc.
-##### LinkedIn
+
+#### LinkedIn
 Fill your LinkedIn with relevant information about positions/projects you had in the past.
 Optimise your linkedin [link](https://careers.workopolis.com/advice/optimize-linkedin-profile-job-hunt-will-thank/)
-##### Github
+
+#### Github
 If you are an aspiring coder show people your projects and how you write code on Github or a similar platform.
-##### Portfolio
+
+#### Portfolio
 If your job is online/creative it's probably a good idea to have a portfolio.
 This is your chance to show the world your favorite projects! Keep it narrow - remember nowdays in an overflood of information attention spans tend to be limitted. Choose your 3-5 most impressive projects and write maximum 100 words to describe them.  
 You can build a custom one, try wix (http://wix.com/), or get in touch with me.
 
-##### All set, ready, go! Time for feedback!
+#### All set, ready, go! Time for feedback!
 Don't forget to add links to everything so people can easily have access to it! :) 
 
 Have a link to your Portfolio on linkedIn, a link to your Github on your Portfolio (also a link to linkedIn and maybe CV), etc. 
