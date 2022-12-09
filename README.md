@@ -21,24 +21,20 @@ Feel free to reach out to me if you know an interesting link that I could add he
   - [From JS to React](#From-JS-to-React)  
   - [React](#react)
   - [Testing](#testing)
+  - [Quality](#quality)
   - [More learning resources](#more-learning-resources)
   - [CSS](#css)
   - [Design](#design)
-  - [Quality](#quality)
   - [Other Links](#other-links) 
   - [Cool npm packages](#cool-npm-packages)
   - [Courses I've taken/completed](#courses-ive-taken/completed)
-
-- [](#)  
-
-- [](#)  
-
-- [](#)  
-
-- [](#)  
-
-- [](#)  
-
+- [When looking for a new position](#when-looking-for-a-new-position)
+  - [1. Know What you are looking for](#1-know-what-you-are-looking-for)
+  - [2. Interview preparation](#2-interview-preparation)
+  - [3. Start Applying](#3-start-applying)
+- [Interesting reads](#interesting-reads)
+- [Interesting videos](#interesting-videos)
+- [Tools](#tools)
 
 
 ## Why? 
