@@ -1,10 +1,6 @@
 # Work-in-Tech.org
 
-Working in tech is fun! 
-
 This is a guide with the most useful resources I've found over the years, including learning material, best practices and tips if you're considering joining tech or currently looking for a new position. 
-
-Wether you're more into code, data science, design, or marketing there is plenty of opportunities out there. 
 
 Feel free to reach out to me if you know an interesting link that I could add here, or looking for feedback! 
 
@@ -38,6 +34,11 @@ Feel free to reach out to me if you know an interesting link that I could add he
 
 
 ## Why? 
+
+Working in tech is fun! 
+
+Wether you're more into code, data science, design, or marketing there is plenty of opportunities out there. 
+
 The 3 Highest Paid Jobs in Tech [link](https://www.hired.com/blog/candidates/3-highest-paid-jobs-technology)
 
 How much do Software developers earn in Germany? [link](https://blog.honeypot.io/how-much-do-developers-earn-in-germany/?fbclid=IwAR0IUmcZQZ7avu0MEnwVDm9ENRRV3aYXYnR_Ei6RyrPrhhIP8BY1WkPHyhM)
