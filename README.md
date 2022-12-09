@@ -252,23 +252,23 @@ Good luck! :)
 
 ♥ https://www.hackerrank.com/interview/interview-preparation-kit
 
-##### Tech Interview Handbook
+#### Tech Interview Handbook
 [github.com/yangshun/tech-interview-handbook](https://www.github.com/yangshun/tech-interview-handbook)
 
-##### Example of what companies look for in Interviewees
+#### Example of what companies look for in Interviewees
 [medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba](https://www.medium.com/@BenPeterJones/joining-the-bitwala-engineering-team-3ab827a799ba)
 
-##### 15 days cheat sheet for hacking technical interviews at big tech companies
+#### 15 days cheat sheet for hacking technical interviews at big tech companies
 [medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1](https://medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1)
 
 [fullstackinterviewing.com](https://www.fullstackinterviewing.com)
 
-##### JavaScript Interview Questions
+#### JavaScript Interview Questions
 https://dev.to/maxpou/typical-javascript-interview-exercises-explained
 
 Frontend Interview Preparation [link](https://advancedweb.dev/frontend-interview-part-1-overview)
 
-##### React 
+#### React 
 
 [dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h](https://dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h)
 
@@ -277,14 +277,15 @@ Codewars.com
 
 ## 3. Start Applying
 
-#### Find position openings
-[Indeed.de](https://de.indeed.com)
+Find position openings
 
-[LinkedIn](https://www.linkedin.com/jobs)
+- [Indeed.de](https://de.indeed.com)
 
-talent.io - you can use my referal on this [link](https://talent.io/ref/FqzSvdMY)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs)
 
-[berlinstartupjobs.com](https://berlinstartupjobs.com)
+- talent.io - you can use my referal on this [link](https://talent.io/ref/FqzSvdMY)
+
+- [berlinstartupjobs.com](https://berlinstartupjobs.com)
 
 
 ## Interesting reads
@@ -296,10 +297,10 @@ Communication & Design Rules [link](https://github.com/CocoaPods/CocoaPods/wiki/
 
 https://techstacks.io/
 
-### Interesting videos
+## Interesting videos
 **Grit**: The power of passion and perseverance [link](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en) and another [one](https://youtube.com/watch?v=sWctLEdIgi4) 
 
 Aaron Swartz [link](https://www.youtube.com/watch?v=7ZBe1VFy0gc)
 
-### Tools
+## Tools
 [link](https://github.com/patrinoua/tools/blob/main/README.md)
