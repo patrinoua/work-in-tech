@@ -46,7 +46,7 @@ The Ultimate Guide to Finding a New Job Fast & Efficiently [link](https://medium
 
 ## How?
 
-#### Bootcamps
+### Bootcamps
 Working in tech is fun! And with a bootcamp (3 months course) you can do it too.
 
 [Startsteps.org](Startsteps.org) - helps you decide which is the right bootcamp for you
