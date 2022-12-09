@@ -10,9 +10,7 @@ Feel free to reach out to me if you know an interesting link that I could add he
 
 ### Table of Contents
 - [Why?](#why?)
-
 - [How?](#how?) 
-
 - [Bootcamps](#bootcamps) 
 
   - [Free Online Bootcamps for Web Technologies](#free-online-bootcamps-for-web-technologies)  
