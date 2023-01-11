@@ -186,6 +186,7 @@ import-sort-style-module [link](https://www.npmjs.com/package/import-sort-style-
 babel-plugin-module-resolver [link](https://github.com/tleunen/babel-plugin-module-resolver/) enables you to make absolute imports
 
 ### Courses I've taken/completed
+GraphQL tutorial https://www.tutorialspoint.com/graphql/graphql_example.htm
  
 React & Jest (up to chapter 6) - Nov 2020 [link](https://app.pluralsight.com/course-player?clipId=7a0e2bac-d11b-4699-a028-f982a5e50266)
 
