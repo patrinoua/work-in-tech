@@ -307,3 +307,6 @@ Aaron Swartz [link](https://www.youtube.com/watch?v=7ZBe1VFy0gc)
 
 ## Tools
 [link](https://github.com/patrinoua/tools/blob/main/README.md)
+
+## Legal advice (greek only)
+https://github.com/patrinoua/odigies-pros-pelagomenous/blob/main/README.md
