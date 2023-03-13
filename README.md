@@ -134,6 +134,10 @@ React Roadmap youtube.com/watch?v=Ip_jOSpThSg
 
 codeburst.io - Learn React JS — Build a Portfolio [link](https://www.codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711)
 
+Learn React (have not personally tried but were recommended on greeceJS)
+https://www.udemy.com/course/react-redux/
+https://egghead.io/courses/the-beginner-s-guide-to-react
+
 Learn TypeScript youtube.com/watch?v=BwuLxPH8IDs 
 
 
