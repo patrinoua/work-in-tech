@@ -121,6 +121,9 @@ JavaScript API cheatsheet [link](https://overapi.com/javascript)
 
 Tutorial by Nextjs [link](https://nextjs.org/learn/foundations/from-javascript-to-react)
 
+### React Native
+The Ultimate Guide to React Native Optimization https://www.callstack.com/campaigns/download-the-ultimate-guide-to-react-native-optimization (thanks George)
+
 ### React
 
 React Roadmap youtube.com/watch?v=Ip_jOSpThSg 
