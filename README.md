@@ -164,6 +164,8 @@ https://testing-library.com/docs/queries/about/#priority
 
 Unit / Integration / End to end testing [link](https://cultivate.software/unit-vs-integration-vs-acceptance-test/)
 
+React native testing https://www.reactnative.guide/7-testing/7.4-mocking-rn-modules.html
+
 ### Quality
 
 Atomic Design [link](https://bradfrost.com/blog/post/atomic-web-design/)
