@@ -235,6 +235,10 @@ Interviewing and coding challenges can be a lengthy procedure, so only apply for
 ### 1. Pump up your Online Presence
 
 #### Kick-ass CV
+##### 6 second rule 
+"Studies have shown that the average recruiter scans a resume for six seconds before deciding if the applicant is a good fit for the role. In other words, to pass the resume test, your resume only has six seconds to make the right impression with a prospective employer." [link](https://joblist.ala.org/career-advice/how-to-pass-the-6-second-resume-test/162/#:~:text=Studies%20have%20shown%20that%20the,impression%20with%20a%20prospective%20employer.)
+
+##### CV templates
 Take a look on canva (https://www.canva.com/templates/resumes/) where they have lots of free modern CV templates and see if you find something you like there. For a more serious format you can also check https://novoresume.com/ . https://app.flowcv.com/
   On your CV do not forget to include useful links to github, linkedin etc.
 
